@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3.9%2B-ff2f2f?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/dependencies-0-ff2f2f?style=for-the-badge" alt="deps"/>
+  <img src="https://img.shields.io/badge/python-3.9%2B-c41237?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/dependencies-0-c41237?style=for-the-badge" alt="deps"/>
   <a href="https://nexqor.github.io"><img src="https://img.shields.io/badge/site-nexqor.github.io-000000?style=for-the-badge" alt="site"/></a>
 </p>
 
